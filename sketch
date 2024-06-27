@@ -95,4 +95,4 @@ function movimentaRaqueteOponente() {
       meusPontos+=1;
 }
   }
-  IF 
+  IF.
